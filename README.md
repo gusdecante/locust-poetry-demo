@@ -2,6 +2,9 @@
 ## Mockoon Locust Poetry
 My first project with Locust | Meu primeiro Projeto com Locust
 
+#### swagger doc
+>[swagger](https://explore.swaggerhub.com/)
+
 #### mockoon environment JSON example
 ```
 {
