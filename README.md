@@ -2,8 +2,8 @@
 ## Mockoon Locust Poetry
 My first project with Locust | Meu primeiro Projeto com Locust
 
-#### swagger doc
->[swagger](https://explore.swaggerhub.com/)
+#### swagger public api doc
+>[swagger](https://app.swaggerhub.com/apis/GUSTAVOCAMPOSANTUNES_1/locust-demo/1.0.0)
 
 #### mockoon environment JSON example
 ```
